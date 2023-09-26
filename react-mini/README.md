@@ -1,0 +1,1 @@
+This branch is to quickly install React npx package with no need of deleting extraneous files.
